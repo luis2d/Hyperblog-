@@ -2,3 +2,4 @@ Hoy es lunes
 Hoy es martes 
 Hoy es miercoles
 hoy es jueves 
+Hoy es viernes 
